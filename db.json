@@ -1,0 +1,88 @@
+{
+  "productos": [
+    {
+      "id": "5229",
+      "name": "PS1",
+      "price": "109.20",
+      "image": "https://m.media-amazon.com/images/I/614JI9LBo6L._SX522_.jpg",
+      "link": "https://www.amazon.com/-/es/Sony-PlayStation-Video-Game-Console-Renewed/dp/B07KPNJSXG/ref=sr_1_5?__mk_es_US=ÅMÅŽÕÑ&crid=1CK9NW3CJ5H4I&dib=eyJ2IjoiMSJ9.uBhnXfhiL7-jiZb0l6DVs3RTpn1WNi6dVMUAU1b3_C7wiwTFtBDcMmBWd336srPyJ61ebkynsQm7PGNBhGSsyTioQOyPzTCJwSeqVEWO1S-oFmXruUyDrlU4-TQfWdUNFxf2qM_SQw9IL8mp_O_3hurZfqVagb0PD6dOWtzG4mtzVoC6Xce7_47nxRpYR0RtVNIhINjxSME_TwWbeUIPOgYDlSx2VEY4-8JZ39lKh_E.GRabZRZhQC8wG6sOLAYQZ2ZtDWSJo2FDmuSpWeu-iOk&dib_tag=se&keywords=ps1&qid=1717451931&sprefix=ps1%2Caps%2C238&sr=8-5"
+    },
+    {
+      "id": "a034",
+      "name": "PS2",
+      "price": "177.20",
+      "image": "https://m.media-amazon.com/images/I/61pETE6v4vL._SX522_.jpg",
+      "link": "https://www.amazon.com/-/es/Sony-PlayStation-2-Console-Black-Renewed/dp/B07KPN9TNY/ref=sr_1_2?__mk_es_US=ÅMÅŽÕÑ&crid=3D8M5HVJ2O7FQ&dib=eyJ2IjoiMSJ9.imorZyuKV6L5VNlJCmyfibaZBEsNa7VrVS0mK8CQfXbBhlJV9ox6HVixQ7X8jGV-qWNqcFVumXKTc177oNyZtzAChlkSLaSw8eQy-1PdxpcDSc3Qh2-Je-OjihB8aBp37MQtgrC4dPiuECjfaeT8SJgzaSI2lQd75UFejMp8_HFWJ4dGmFKoXpCeeDg1dOkdPC_EBRmu7U4qkWrHu0jrprqTCLEm7-7nwFso4-A0D-s.Hbw9Y9YGS241J8enbu64kAd8t2FR393IEqGcRU6M3BQ&dib_tag=se&keywords=ps2&qid=1717452703&sprefix=ps2%2Caps%2C169&sr=8-2"
+    },
+    {
+      "id": "518f",
+      "name": "PS3 Slim - 120GB",
+      "price": "156.99",
+      "image": "https://m.media-amazon.com/images/I/514hyDUqKTL._AC_SX679_.jpg",
+      "link": "https://www.amazon.com/-/es/PlayStation-Console-modelo-antiguo-renovado/dp/B07Q4F7FGX/ref=sr_1_3?__mk_es_US=ÅMÅŽÕÑ&crid=3IFJPSAGBBAW&dib=eyJ2IjoiMSJ9.J3WlD8w5U-duAvry96Ap1tl4odISE7_QOZho4H26MLtWOFWZFx55l4QJ1baqDCSnRyVc3R_as2GlsWFlz-TTKPyfp4WtI0Hwq72Y1vc6TqA2YYEBAhovUd4RoYPFJBJqAUelqyN8g4b3ZYBtSD-IPS3Q_uoXsbhJuB7C0k5yJr32gr3_w2YEpJ6KH_M8PwpeopL-jTVaXXX2qLQVms7S8a38OH-7i3jdRWSNX28dEcA.HuSYxfrnAGVZi6cddQumO0ZXZ2LVrZuJHjsUniOgC0U&dib_tag=se&keywords=ps3&qid=1717452787&sprefix=ps3%2Caps%2C138&sr=8-3"
+    },
+    {
+      "id": "e7a9",
+      "name": "PS4 Slim - 1TB",
+      "price": "239.99",
+      "image": "https://m.media-amazon.com/images/I/71pFnHBrvgL._SX522_.jpg",
+      "link": "https://www.amazon.com/-/es/PlayStation-Slim-1TB-Console-Black-Renewed/dp/B06ZXXBLRL/ref=sr_1_2?__mk_es_US=ÅMÅŽÕÑ&crid=VI4QFVNSSMK1&dib=eyJ2IjoiMSJ9.pwoHai96s_pzmyGtqxX8xMx4EJTHsxlXx0dOeRRJVZVRZrMq6DelTpyXE8gsYEHBebne2QR8eSgPTdSfOi4VrvQRG0i2VGN37nv1m-B-hlmwenLF790R8uoCOAwYBnlJZCDT4i5DPXDvJ_eDyPa_oFKy-lJyBmmzcJTAu68XI_Gq8vsvdNWBoFSOazzy-vfd7pESNOdIGUWP83VZsVsHk98fECwZC0lc-TaEZP7jy54.Yyc9UvA3wFtPyjFmUTflpHX5Bs2SUVTM_NYyZVtkr4w&dib_tag=se&keywords=ps4&qid=1717452978&sprefix=ps4%2Caps%2C115&sr=8-2"
+    },
+    {
+      "id": "14cb",
+      "name": "PS5 Slim",
+      "price": "499.99",
+      "image": "https://m.media-amazon.com/images/I/51CXJ8Rl7UL._SX522_.jpg",
+      "link": "https://www.amazon.com/-/es/PlayStation®5-console-slim-PlayStation-5/dp/B0CL61F39H/ref=sr_1_1?__mk_es_US=ÅMÅŽÕÑ&crid=3FJ1OVITIN60V&dib=eyJ2IjoiMSJ9.eN0N2CMp1yGYGXtFo_TPucoTtQXBnPytpGcUgYPrBKtoM3S_JiPyq0dDg4oEhEL2jL5V2zmRI2UNf4Wu_q9G698wFPi0AcV68C5sulExAb--ycwVvj3m-DGV4h370PZMIMfprqW8CXP5z13Mpv56fkJXTLRO7jjO8BNOtf7G506M7jgHrcGQ6cLffFX59GBSdfdY_AqOo1NzAnwEUQ3HXlj4Oy--BGPFNKGRhWhWq3c.owlWmS506_DFoko85etBb3oEsqtEvTLB-XtV9s8YOyI&dib_tag=se&keywords=ps5&qid=1717453044&sprefix=ps5%2Caps%2C149&sr=8-1&th=1"
+    },
+    {
+      "id": "f19a",
+      "name": "Xbox Series X",
+      "price": "499.99",
+      "image": "https://m.media-amazon.com/images/I/51ojzJk77qL._SX425_.jpg",
+      "link": "https://www.amazon.com/-/es/Xbox-X/dp/B08H75RTZ8/ref=sr_1_1?crid=13PTFV8Q15KU3&dib=eyJ2IjoiMSJ9.effhlws7x-baDdET4pANaTUwlgpQ6ND-4lkFaiB8LZZbBdSyjPMMrEPwRNTmcNMPecd6IXgWUx9BTG9P6YasiAyPiKIPQYDPkSfpsU77bq3Jj84l0b03EdF6XhxWyeO00D_bu2bOgNFCKkt1S3hf1SWcKoJHqBhp_fZcVlJhKRPQhv9ZJPt4XXcxxNDl8bmOSXdaXhWEo67Tyx9wmKS7M2u6x-XoGdmWhZM8cxcjJd8.fITKd8vfpP2RpQ266kylILDxIl55F4pXt7fiPv4Vg4E&dib_tag=se&keywords=xbox%2Bseries%2Bx&qid=1717453098&sprefix=xbox%2Bseries%2Caps%2C134&sr=8-1&th=1"
+    },
+    {
+      "id": "8406",
+      "name": "Xbox Series S",
+      "price": "294.99",
+      "image": "https://m.media-amazon.com/images/I/41Zrh1Vl95L._SX300_SY300_QL70_FMwebp_.jpg",
+      "link": "https://www.amazon.com/-/es/Microsoft-Xbox-All-Digital-Wireless1-Controller-X/dp/B09CKFYKWB/ref=sr_1_2?__mk_es_US=ÅMÅŽÕÑ&crid=3W09M7FPKI529&dib=eyJ2IjoiMSJ9.72GVC1gZ2MJuID45z7gbqa9qqB2OHRTOeJ8D9QrTzGZVMeCvNAVpPwsKq92cyrnIjeD5KZvTzhW2dM7WBN2qt92s58qT-W0aji03zJIHrpjedbQcbhC4mQIi8zOwmS79MIXfgiM2aPojdpmBrkTRETW5me8whnZF0A98f5T6GJVv2OGZT7tfPujD6EvLnQ_otSvbPDjvMcyhUJOq6hZNVgdDSYj_RsU1jnCux3OR2hw.2e49pSyfeN_uN4DF6M5vfR8vAd-lYWuQTzLm0pQm-6w&dib_tag=se&keywords=xbox+series+s&qid=1717453198&sprefix=xbox+series+s%2Caps%2C123&sr=8-2"
+    },
+    {
+      "id": "e597",
+      "name": "Xbox Series S Carbon Black - 1TB",
+      "price": "379.99",
+      "image": "https://m.media-amazon.com/images/I/61hwaBMvOxL._SX425_.jpg",
+      "link": "https://www.amazon.com/-/es/Microsoft-Xbox-1TB-Console-Carbon-Black/dp/B0C7HKS2RF/ref=sr_1_1?__mk_es_US=ÅMÅŽÕÑ&crid=2OA43G38MEJ4Q&dib=eyJ2IjoiMSJ9.72GVC1gZ2MJuID45z7gbqa9qqB2OHRTOeJ8D9QrTzGZVMeCvNAVpPwsKq92cyrnIjeD5KZvTzhW2dM7WBN2qt92s58qT-W0aji03zJIHrpjedbQcbhC4mQIi8zOwmS79MIXfgiM2aPojdpmBrkTRETW5me8whnZF0A98f5T6GJVv2OGZT7tfPujD6EvLnQ_otSvbPDjvMcyhUJOq6hZNVgdDSYj_RsU1jnCux3OR2hw.2e49pSyfeN_uN4DF6M5vfR8vAd-lYWuQTzLm0pQm-6w&dib_tag=se&keywords=xbox%2Bseries%2Bs&qid=1717453284&sprefix=xbox%2Bseries%2Bs%2Caps%2C111&sr=8-1&th=1"
+    },
+    {
+      "id": "ef4d",
+      "name": "Nintendo Switch",
+      "price": "299.99",
+      "image": "https://m.media-amazon.com/images/I/71wpE+ZIehL._SX522_.jpg",
+      "link": "https://www.amazon.com/-/es/Nintendo-SwitchTM-Neon-Blue-Joy‑ConTM-Switch/dp/B0BFJWCYTL/ref=sr_1_2?crid=5H38BHTMXILT&dib=eyJ2IjoiMSJ9.SnJwwaQgWAAz2ipQdcQ--7pxHGa4G0XCr_DkNCSQqyebQS7jjQgHnpAadaZxbbqiC1p1yE-7xnJ82a3QbZUqI51Pr_QjopLTbpEsY-dSuhrxGV87zptaZzA_Fk3yqRuv452HCbXgGSGlyU7tZeEw2H_9f4E7zZBRdMSH5z2iFLGMwYnwo4pxPc7fOIQqPrm6ytSKGjhYyMnWVRW_ksOh5dH0CEM06swA4D-bJH9khdQ.Ds4H4piI0YrJOJCbMbFZ2MeeSqkEXPl_CSKTDZMXx0o&dib_tag=se&keywords=nintendo%2Bswitch&qid=1717453421&sprefix=nintendo%2Caps%2C189&sr=8-2&th=1"
+    },
+    {
+      "id": "91e3",
+      "name": "Nintendo Switch OLED",
+      "price": "339.99",
+      "image": "https://m.media-amazon.com/images/I/41ttIuh5SlL._SX300_SY300_QL70_FMwebp_.jpg",
+      "link": "https://www.amazon.com/-/es/Nintendo-Switch-OLED-Model-Neon-Joy/dp/B098RL6SBJ/ref=sr_1_3?__mk_es_US=ÅMÅŽÕÑ&dib=eyJ2IjoiMSJ9.SnJwwaQgWAAz2ipQdcQ--7pxHGa4G0XCr_DkNCSQqyebQS7jjQgHnpAadaZxbbqiC1p1yE-7xnJ82a3QbZUqI51Pr_QjopLTbpEsY-dSuhrxGV87zptaZzA_Fk3yqRuv452HCbXgGSGlyU7tZeEw2H_9f4E7zZBRdMSH5z2iFLGMwYnwo4pxPc7fOIQqPrm6ytSKGjhYyMnWVRW_ksOh5dH0CEM06swA4D-bJH9khdQ.Ds4H4piI0YrJOJCbMbFZ2MeeSqkEXPl_CSKTDZMXx0o&dib_tag=se&keywords=nintendo%2Bswitch&qid=1717453468&sr=8-3&th=1"
+    },
+    {
+      "id": "cf21",
+      "name": "Nintendo Switch Lite",
+      "price": "199.99",
+      "image": "https://m.media-amazon.com/images/I/71sWmEcjPJL._AC_SX425_.jpg",
+      "link": "https://www.amazon.com/-/es/HDHSGAZAA-Nintendo-Switch-Lite-Gray/dp/B07V2BBMK4/ref=sr_1_3?__mk_es_US=ÅMÅŽÕÑ&crid=283LW9AEQSF27&dib=eyJ2IjoiMSJ9.ezOKGG11240AbI6x1U5VQpPdnVFcPBswopgZwhX-PWP6hw5eRMsedkT2XPnXDYrHovgHAPU-vaA-0DolFjHxDcbGoe2PF_hs_dJuTO9NN-pvn88H-X8JRvKkIIxVeOjMDfO0IhaaVWTRSgWayCxhWDg2A7xMfvtRA0NTs1oPLTbQT_CCkLFaDIf4jY1IXbZfX4IDbpxgJlK6w4NV2KvDADPIxfjaT4DnI-eO0N7jfKA.dNF3p6mVqRxgrAO2LfWV0Hmj8e3UcQeodt2D4nt_YSk&dib_tag=se&keywords=nintendo%2Bswitch%2Blite&qid=1717453534&sprefix=nintendo%2Bswitch%2Blite%2Caps%2C133&sr=8-3&th=1"
+    },
+    {
+      "id": "acb7",
+      "name": "Valve Steam Deck - 512GB",
+      "price": "507.99",
+      "image": "https://m.media-amazon.com/images/I/51TEmAZN6rL._AC_SX679_.jpg",
+      "link": "https://www.amazon.com/-/es/Valve-Steam-512GB-Consola-portátil/dp/B0BBQRYN9M/ref=sr_1_3?__mk_es_US=ÅMÅŽÕÑ&crid=2U9BFSIB31WJL&dib=eyJ2IjoiMSJ9.yMxIcKjrJFsxW_mxm7rD6fxU2lSZfh3oEP7sKI8d27vTUB27CAKJdpqCwTlkO8SUKIDcRv87L9Ehxo7HLZYyPIrDG84wcSzEWlkYXNtBlfFPciBZ8j2-F-cf0fZO-KXFR5cvFJQVMriW-LtlC0URRgtd7yUsXZJ5ihFPrfLsbTxrbRPVncSD7psLU9jEA1ndC-SGyrSS17e0-a0D4nBAj2whNDC6PpPZCRTwi9mfN-Y.VFZD4743IuU6KiOJv4GGV8qIahvwTJuIOHB5D-0kAUo&dib_tag=se&keywords=steam+deck&qid=1717454830&sprefix=steam+deck%2Caps%2C134&sr=8-3"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+header {
+    text-align: center;
+    background-color: #5300C8;
+    height: 100px;
+    padding: auto;
+}
+
+header h3 {
+    padding-top: 35px;
+    color: white;
+    font-family: "VT323", monospace;
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* Apartado de agregar productos */
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+    font-family: 'Press Start 2P', cursive;
+}
+
+form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 2px solid #004080;
+    border-radius: 25px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+form input::placeholder {
+    color: #004080;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.button-submit {
+    padding: 10px 20px;
+    font-size: 14px;
+    border-radius: 5px;
+    border: 2px solid #004080;
+    text-decoration: none;
+    color: #004080;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.button-submit:hover {
+    background-color: #A5A889;
+}
+
+/* Mostrar productos */
+main h2 {
+    text-align: center;
+    color: black;
+    font-family: "VT323", monospace;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.product-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.card {
+    background-color: #9747FF;
+    color: #FFFFFF;
+    width: 200px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 3px solid #000000;
+    display: inline-block;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+}
+
+.card img {
+    width: 100px;
+    height: auto;
+    max-height: 80px;
+    object-fit: contain;
+    padding-left: 45px;
+}
+
+.card p {
+    font-family: "VT323", monospace;
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+    text-align: center;
+}
+
+.search-link{
+    text-decoration: none;
+    font-family: "VT323", "monospace";
+    font-weight: 250;
+    font-style: normal;
+    color: #CFD3B1;
+    border: 2px solid black;
+    border-radius: 6px;
+    background-color: #363535;
+}
+
+.search-link:hover{
+    background-color: #000000;
+    transition: all ease-in-out 0.3s;
+}
+
+.delete-button {
+    background-color: #9747FF;
+    cursor: pointer;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    margin-top: 10px;
+    border-radius: 3px;
+}
+
+.delete-button img {
+    width: 20px;
+}
+
+footer{
+    text-align: center;
+    background-color: #5300C8;
+    height: 100px;
+    padding: auto;
+}
+
+footer h3{
+    padding-top: 35px;
+    color: white;
+    font-family: "VT323", monospace;
+    font-weight: 700;
+    font-style: normal;
+}
